@@ -1,0 +1,230 @@
+.register-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.register-container01 {
+  flex: 0 0 auto;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-self: center;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.register-text {
+  color: #1e2a69;
+  align-self: center;
+}
+.register-container02 {
+  flex: 0 0 auto;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.register-container03 {
+  flex: 0 0 auto;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-self: flex-start;
+  align-items: flex-start;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.register-form {
+  width: 100%;
+  height: auto;
+  display: flex;
+  justify-content: center;
+}
+.register-container04 {
+  flex: 0 0 auto;
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.register-text01 {
+  color: #1e2a69;
+  align-self: center;
+  text-decoration: underline;
+}
+.register-container05 {
+  flex: 0 0 auto;
+  width: 100%;
+  height: 100px;
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+}
+.register-textinput {
+  color: #1e2a69;
+  margin: var(--dl-space-space-halfunit);
+  font-size: 20px;
+  border-color: #1e2a69;
+}
+.register-textinput01 {
+  color: #1e2a69;
+  margin: var(--dl-space-space-halfunit);
+  font-size: 20px;
+  border-color: #1e2a69;
+}
+.register-textinput02 {
+  color: #1e2a69;
+  margin: var(--dl-space-space-halfunit);
+  font-size: 20px;
+  border-color: #1e2a69;
+}
+.register-container06 {
+  flex: 0 0 auto;
+  width: 100%;
+  height: 100px;
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+}
+.register-text02 {
+  color: #1e2a69;
+  margin: var(--dl-space-space-halfunit);
+  font-size: 20px;
+}
+.register-textinput03 {
+  color: #1e2a69;
+  margin: var(--dl-space-space-halfunit);
+  border-color: #1e2a69;
+}
+.register-text03 {
+  color: rgb(30, 42, 105);
+  margin: var(--dl-space-space-halfunit);
+  font-size: 20px;
+}
+.register-textinput04 {
+  color: #1e2a69;
+  margin: var(--dl-space-space-halfunit);
+  font-size: 20px;
+  border-color: #1e2a69;
+}
+.register-text04 {
+  color: #1e2a69;
+  margin: var(--dl-space-space-halfunit);
+  font-size: 20px;
+}
+.register-radiobutton {
+  margin: var(--dl-space-space-halfunit);
+}
+.register-text05 {
+  color: #1e2a69;
+  margin: var(--dl-space-space-halfunit);
+  font-size: 20px;
+}
+.register-radiobutton1 {
+  margin: var(--dl-space-space-halfunit);
+}
+.register-text06 {
+  color: #1e2a69;
+  margin: var(--dl-space-space-halfunit);
+  font-size: 20px;
+}
+.register-heading {
+  color: rgb(30, 42, 105);
+  align-self: center;
+  text-decoration: underline;
+}
+.register-container07 {
+  flex: 0 0 auto;
+  width: 100%;
+  height: 100px;
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+}
+.register-textinput05 {
+  color: #1e2a69;
+  margin: var(--dl-space-space-halfunit);
+  font-size: 20px;
+  border-color: #1e2a69;
+}
+.register-textinput06 {
+  color: #1e2a69;
+  margin: var(--dl-space-space-halfunit);
+  font-size: 20px;
+  border-color: #1e2a69;
+}
+.register-textinput07 {
+  color: #1e2a69;
+  margin: var(--dl-space-space-halfunit);
+  font-size: 20px;
+  border-color: #1e2a69;
+}
+.register-container08 {
+  flex: 0 0 auto;
+  width: 100%;
+  height: 100px;
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+}
+.register-textinput08 {
+  color: #1e2a69;
+  margin: var(--dl-space-space-halfunit);
+  font-size: 20px;
+  border-color: #1e2a69;
+}
+.register-textinput09 {
+  margin: var(--dl-space-space-halfunit);
+  font-size: 20px;
+}
+.register-textinput10 {
+  color: #1e2a69;
+  margin: var(--dl-space-space-halfunit);
+  font-size: 20px;
+  border-color: #1e2a69;
+}
+.register-container09 {
+  flex: 0 0 auto;
+  width: 40%;
+  display: flex;
+  align-self: center;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.register-textarea {
+  color: #1e2a69;
+  margin: var(--dl-space-space-halfunit);
+  font-size: 20px;
+  align-self: center;
+  text-align: left;
+  border-color:  #1e2a69;
+}
+.register-button {
+  color: rgb(255, 255, 255);
+  margin: var(--dl-space-space-unit);
+  font-size: 20px;
+  align-self: center;
+  border-color: #1e2a69;
+  background-color: rgb(30, 42, 105);
+}
+@media(max-width: 767px) {
+  .register-form {
+    width: 100%;
+    height: auto;
+  }
+  .register-container05 {
+    height: auto;
+  }
+  .register-textinput {
+    width: 100%;
+  }
+  .register-textinput01 {
+    width: 100%;
+  }
+  .register-textinput02 {
+    width: 100%;
+  }
+}
